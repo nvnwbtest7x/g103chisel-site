@@ -1,0 +1,11 @@
+/redir/cd  http://cd102.wbross7.dpdns.org/probe.png  302!
+/redir/self  https://illustrious-scone-92d989.netlify.app/probe.png  302!
+/redir/ext  https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png  302!
+/redir/intimg*  https://internal.netlify.com/.netlify/images?url=/:splat  302!
+/redir/supimg*  https://supportal.netlify.app/.netlify/images?url=/:splat  302!
+/redir/intidx  https://internal.netlify.com/index.html  302!
+/redir/priv  http://envelope.services-prod.nsvcs.net/  302!
+/redir/pub  http://connections-api.services-prod.nsvcs.net/  302!
+/redir/www  https://www.netlify.com/img/global/favicon.ico  302!
+/redir/supidx  https://supportal.netlify.app/index.html  302!
+/redir/www2  https://www.netlify.com/images/home/logos/meta-black.svg  302!
